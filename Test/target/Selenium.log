@@ -1,0 +1,36 @@
+2022-12-04 18:15:09 [INFO ] [UserPage] - [launchApplication] Launched the application url
+2022-12-04 18:15:10 [INFO ] [UserPage] - [clickAddUser] Clicked on add Add User button
+2022-12-04 18:15:11 [INFO ] [UserPage] - [enterFirstName] Entered value in First Name field as : Name_First
+2022-12-04 18:15:12 [INFO ] [UserPage] - [enterLastName] Entered value in Last Name field as : Name_Last
+2022-12-04 18:15:15 [INFO ] [UserPage] - [enterUserName] Entered value in User Name field as : user001
+2022-12-04 18:15:15 [INFO ] [UserPage] - [enterPassword] Entered value in Password field as : P@55w0rd
+2022-12-04 18:15:15 [INFO ] [UserPage] - [selectCustomer] Selected the Custom'er as : Company BBB
+2022-12-04 18:15:15 [INFO ] [UserPage] - [selectRole] Selected the Role as : Customer
+2022-12-04 18:15:15 [INFO ] [UserPage] - [insertEmail] Entered value in E-mail field as : first_last@abc.com
+2022-12-04 18:15:15 [INFO ] [UserPage] - [insertCellPhone] Entered value in Cell Phone field as : 1234567890
+2022-12-04 18:15:16 [INFO ] [UserPage] - [clickSaveBtn] Clicked on Save button
+2022-12-04 18:15:16 [INFO ] [UserPage] - [searchUser] Entered value in Username as : user001 in the search field
+2022-12-04 18:15:16 [INFO ] [UserPage] - [getUserNameFromSearchedResult] The User name found : user001
+2022-12-04 18:15:24 [INFO ] [UserPage] - [launchApplication] Launched the application url
+2022-12-04 18:15:24 [INFO ] [UserPage] - [clickDeleteBtn] Clicked on delete user button
+2022-12-04 18:15:24 [INFO ] [UserPage] - [clickOkBtn] Clicked on delete user button
+2022-12-04 18:15:25 [INFO ] [UserPage] - [searchUser] Entered value in Username as : novak in the search field
+2022-12-04 18:15:27 [INFO ] [UserPage] - [getUserNameFromSearchedResult] The searched result not found!
+2022-12-04 18:18:04 [INFO ] [UserPage] - [launchApplication] Launched the application url
+2022-12-04 18:18:04 [INFO ] [UserPage] - [clickAddUser] Clicked on add Add User button
+2022-12-04 18:18:06 [INFO ] [UserPage] - [enterFirstName] Entered value in First Name field as : Name_First
+2022-12-04 18:18:06 [INFO ] [UserPage] - [enterLastName] Entered value in Last Name field as : Name_Last
+2022-12-04 18:18:09 [INFO ] [UserPage] - [enterUserName] Entered value in User Name field as : user001
+2022-12-04 18:18:09 [INFO ] [UserPage] - [enterPassword] Entered value in Password field as : P@55w0rd
+2022-12-04 18:18:09 [INFO ] [UserPage] - [selectCustomer] Selected the Custom'er as : Company BBB
+2022-12-04 18:18:09 [INFO ] [UserPage] - [selectRole] Selected the Role as : Customer
+2022-12-04 18:18:10 [INFO ] [UserPage] - [insertEmail] Entered value in E-mail field as : first_last@abc.com
+2022-12-04 18:18:10 [INFO ] [UserPage] - [insertCellPhone] Entered value in Cell Phone field as : 1234567890
+2022-12-04 18:18:10 [INFO ] [UserPage] - [clickSaveBtn] Clicked on Save button
+2022-12-04 18:18:10 [INFO ] [UserPage] - [searchUser] Entered value in Username as : user001 in the search field
+2022-12-04 18:18:10 [INFO ] [UserPage] - [getUserNameFromSearchedResult] The User name found : user001
+2022-12-04 18:18:23 [INFO ] [UserPage] - [launchApplication] Launched the application url
+2022-12-04 18:18:23 [INFO ] [UserPage] - [clickDeleteBtn] Clicked on delete user button
+2022-12-04 18:18:23 [INFO ] [UserPage] - [clickOkBtn] Clicked on delete user button
+2022-12-04 18:18:25 [INFO ] [UserPage] - [searchUser] Entered value in Username as : novak in the search field
+2022-12-04 18:18:27 [INFO ] [UserPage] - [getUserNameFromSearchedResult] The searched result not found!
